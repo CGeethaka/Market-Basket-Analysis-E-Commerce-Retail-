@@ -25,7 +25,7 @@ The goal is to uncover **association rules** and **frequent itemsets** from tran
 
 ---
 
-## 🧩 Dataset
+##  Dataset
 **Source:** [UCI Machine Learning Repository – Online Retail Data](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
 **Description:**  
@@ -44,8 +44,8 @@ A UK-based online retail company dataset containing transactions between **01/12
 
 ---
 
-## ⚙️ Technologies Used
-- Python �
+##  Technologies Used
+- Python 
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
@@ -75,5 +75,5 @@ A UK-based online retail company dataset containing transactions between **01/12
 
 ---
 
-## 🪪 License
+##  License
 This project is released under the [MIT License](LICENSE).
