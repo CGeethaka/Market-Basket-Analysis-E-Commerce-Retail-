@@ -48,7 +48,8 @@ A UK-based online retail company dataset containing transactions between **01/12
 - Python 
 - Pandas
 - NumPy
-- Matplotlib / Seaborn
+- Matplotlib
+- Seaborn
 - mlxtend (for Apriori & Association Rules)
 - Jupyter Notebook
 
